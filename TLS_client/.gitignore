@@ -1,0 +1,22 @@
+# VPN / security files
+*.ovpn
+*.key
+*.pem
+*.crt
+
+# Trusted certificates
+trusted_root
+
+# macOS
+.DS_Store
+
+# Build files
+scheduler
+tls_client
+*.o
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
