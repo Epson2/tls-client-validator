@@ -41,7 +41,7 @@ If any validation fails, the client terminates and prints a security error messa
 - Environment: Linux / macOS
 
 # Running the Client
-./tls_client <server_ip> <port>
+./tls_client <server_ip>  <port>
 
 # Example Outputs
 Successful Connection
